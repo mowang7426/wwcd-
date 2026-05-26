@@ -1,0 +1,9 @@
+Package: com.yourname.wwdc22posterenabler
+Name: WWDC22 Poster Enabler
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enable WWDC 2022 interactive wallpaper on iOS 16+.
+Maintainer: Your Name
+Author: Your Name
+Section: Tweaks
